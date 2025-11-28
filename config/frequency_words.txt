@@ -1,60 +1,83 @@
 马斯克
+@1
 
 英伟达
 NVIDIA
 黄仁勋
+@2
 
 AMD
+@2
 
 ai
 !gai
 人工智能
+@3
 
 claude
 claude code
 Anthropic
+@5
 
 chatgpt
 openai
 codex
 sora
+@5
 
 谷歌
 google
 gemini
+@5
 
 千问
 qwen
 deepseek
+@5
 
 cursor
+@5
 
 机器人
+@1
 
 芯片
+@1
 
 仿真
 推演
-ai
-+军事
+军事
++ai
+@1
 
 游戏
 独立游戏
+@5
 
 unity
 unreal
 虚幻
 godot
+@5
 
 steam
 +促
+@2
 
 NBA
 湖人
 詹姆斯
 文班亚马
 杜兰特
+@3
 
 中国
 美国
 日本
+@2
+
+colpali
+colbert
+rag
+检索技术
+@2
