@@ -9,23 +9,27 @@ AMD
 ai
 !gai
 人工智能
+
 claude
+claude code
 Anthropic
+
 chatgpt
 openai
+codex
 sora
+
 谷歌
 google
 gemini
 
+千问
 qwen
+deepseek
+
+cursor
 
 机器人
-
-中国
-
-美国
-日本
 
 芯片
 
@@ -44,3 +48,7 @@ NBA
 詹姆斯
 文班亚马
 杜兰特
+
+中国
+美国
+日本
