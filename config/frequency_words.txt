@@ -1,14 +1,3 @@
-马斯克
-@1
-
-英伟达
-NVIDIA
-黄仁勋
-@2
-
-AMD
-@2
-
 ai
 !gai
 人工智能
@@ -17,30 +6,28 @@ ai
 claude
 claude code
 Anthropic
-@5
+@3
 
 chatgpt
 openai
 codex
 sora
-@5
+@3
 
 谷歌
 google
 gemini
-@5
+@3
 
 千问
 qwen
 deepseek
-@5
+@2
 
 cursor
-@5
-
-机器人
 @1
 
+机器人
 芯片
 @1
 
@@ -50,18 +37,20 @@ cursor
 +ai
 @1
 
-游戏
-独立游戏
+独立
+做
++游戏
 @5
 
 unity
 unreal
 虚幻
 godot
-@5
+!community
+@2
 
 steam
-+促
++促销
 @2
 
 NBA
